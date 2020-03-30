@@ -1,0 +1,46 @@
+﻿#page1_jPanel1{
+  background: #494e51;
+}
+
+#page1_jIconfont1{
+  font-size: 24px;
+  color: #FFFFFF;
+}
+
+#page1_jLabel1{
+  color: #FFFFFF;
+}
+
+#page1_jIconfont2{
+  font-size: 24px;
+  color: #FFFFFF;
+}
+
+#page1_jNavigation1,#page1_jNavigation1 .mui-control-item,#page1_jNavigation1,#page1_jNavigation1 .vj-tablecell{
+  border-color: #999999;
+}
+
+#page1_jNavigation1{
+  background-color: #FAFAFA;
+}
+
+#page1_jNavigation1 .mui-control-item,#page1_jNavigation1 .vj-tablecell{
+  color: #999999;
+}
+
+#page1_jNavigation1 a.mui-control-item.mui-active,#page1_jNavigation1 a.vj-tablecell.mui-active{
+  background-color: rgba(255,255,255,0);
+  color: #0080C0;
+  border-color: #0080C0;
+}
+
+#page1_jNavigation1 .mui-control-item .mui-icon,#page1_jNavigation1 .mui-control-item .mui-icon-extra,#page1_jNavigation1 .vj-tablecell .mui-icon,#page1_jNavigation1 .vj-tablecell .mui-icon-extra{
+  color: #999999;
+  border-color: #999999;
+}
+
+#page1_jNavigation1 .mui-control-item.mui-active .mui-icon,#page1_jNavigation1 .mui-control-item.mui-active .mui-icon-extra,#page1_jNavigation1 .vj-tablecell.mui-active .mui-icon,#page1_jNavigation1 .vj-tablecell.mui-active .mui-icon-extra{
+  color: #0080C0;
+  border-color: #0080C0;
+}
+
