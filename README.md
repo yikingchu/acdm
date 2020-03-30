@@ -10,6 +10,9 @@
    开源MUI混合开发的移动APP端。 
 ## 遵守原则
    开源项目不可应用于商业用途，同样也不可以修改后二次发布获取权利等。
+## 联系作者
+   微信：yikunzhu  
+   电话：+86 15519925000
       
   ![APP移动端1](https://raw.githubusercontent.com/yikingchu/acdm/master/rc/example/1.png)
   ![APP移动端2](https://raw.githubusercontent.com/yikingchu/acdm/master/rc/example/2.png)
